@@ -4,7 +4,7 @@
 ####################################
 #
 title: Moon Lime
-email: lime@moonli.me
+email: tequila@moonli.me
 description: Liberal staking.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "moonlime", "crypto"]
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "Liberal staking"
   bio: "Independent POS staking service."
-  email:
+  email: tequila@moonli.me
   disqus-shortname:
   twitter: moonli.me
   facebook: #username
@@ -66,6 +66,6 @@ owner:
   weibo: #username
   flickr: #username
   500px: #username
-  keybase: y3v63n
+  keybase: #y3v63n
   reddit: #username
   telegram: y3v63n
