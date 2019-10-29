@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Moon Lime
+email: lime@moonli.me
+description: Liberal staking.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "moonlime", "crypto"]
 
 #
 ###################################
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Moon Lime
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Liberal staking"
+  bio: "Independent POS staking service."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: moonli.me
   facebook: #username
   google:
     plus: #username
@@ -69,3 +69,4 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+  keybase: y3v63n
