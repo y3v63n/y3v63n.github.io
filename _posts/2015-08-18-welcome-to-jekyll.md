@@ -9,8 +9,7 @@ Today is a big day for us! We are happy to introduce our staking service Moon Li
 
 <!--more-->
 
-![Founder Badge](/img/founder-badge.png =250x "Founder Badge")
-
+<img src="/img/founder-badge.png" width="250">
 
 This is a huge step for Moon Lime as this is going to be our very first mainnet validator that follows our participation in Kava's testnets during the last three months. In the course of that period we learnt how to use main commands on Cosmos SDK, how to create and back up our validator, how to participate in governance and met a great community of fellow-validators.
 
