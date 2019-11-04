@@ -5,22 +5,17 @@ date:   2019-11-05 15:00:00
 categories: [Kava]
 comments: true
 ---
-Today is a big day for us! We are happy to introduce our staking service Moon Lime and announce the launch of our first validator on [Kava](https://www.kava.io/)'s mainnet.
+Today is a big day for us! We are happy to introduce our staking service Moon Lime and announce the launch of our validator on [Kava](https://www.kava.io/)'s mainnet. Following our participation in Kava's testnets, we have been awarded a Founder Badge and a token allocation part of which will be used as a stake for our validator.  
 
 <!--more-->
 
-Jekyll also offers powerful support for code snippets:
+![Founder Badge](/img/founder-badge.png "Founder Badge")
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+This is a huge step for Moon Lime as this is going to be our very first mainnet validator that follows our participation in Kava's testnets during the last three months. In the course of that period we learnt how to use main commands on Cosmos SDK, how to create and back up our validator, how to participate in governance and met a great community of fellow-validators.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+We are grateful to Kava's team for their continuous support and look forward to helping secure the network and earn more badges.
+
+We are calling on other validators (especially the bigger ones) to support our service and delegate KAVA tokens to our validator.
+
+We will publish detailed instructions for community members and KAVA token holders as soon as transactions will be enabled and Binance KAVA BEP-2 tokens will migrate to the Kava mainnet.
