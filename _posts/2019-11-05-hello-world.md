@@ -17,4 +17,8 @@ We are grateful to Kava's team for their continuous support and look forward to 
 
 We are calling on other validators (especially the bigger ones) to support our service and delegate KAVA tokens to our validator.
 
+    {% raw %}
+    kavavaloper1kc6vzheht92jwf0gtzhjk6jjht67rxhal9z04v
+    {% endraw %}
+
 We will publish detailed instructions for community members and KAVA token holders as soon as transactions will be enabled and Binance KAVA BEP-2 tokens will migrate to the Kava mainnet.
