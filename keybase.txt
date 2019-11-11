@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/y3v63n
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://moonli.me
+  * I am y3v63n (https://keybase.io/y3v63n) on keybase.
+  * I have a public key ASCBcXdty7UUEyrZ6L9xsgubS7nV3vlfsIkhjKgx-2C6kwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208171776dcbb514132ad9e8bf71b20b9b4bb9d5def95fb089218ca831fb60ba930a",
+      "host": "keybase.io",
+      "kid": "01208171776dcbb514132ad9e8bf71b20b9b4bb9d5def95fb089218ca831fb60ba930a",
+      "uid": "6e1e23dcf8280bb3ad389cad735e0619",
+      "username": "y3v63n"
+    },
+    "merkle_root": {
+      "ctime": 1573466515,
+      "hash": "92953a082a4212530eb90321889699356082c7f49b5bcf0b1029f285e3dced52991185d136ab3b610d45471639b4102d3d3e17165e793de84bcb4495e776f979",
+      "hash_meta": "1991a28db192d712c7d4fa01e54520e2ec9caadf8470e86d76b12c9e220d3b2a",
+      "seqno": 9132102
+    },
+    "service": {
+      "entropy": "JdhFAKfHdotHfVgqkIa2LTSZ",
+      "hostname": "moonli.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573467053,
+  "expire_in": 504576000,
+  "prev": "06507eb7685b4d957c56bee164e15d0643ae1610d1a81d99434652862dee036a",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggXF3bcu1FBMq2ei/cbILm0u51d75X7CJIYyoMftgupMKp3BheWxvYWTESpcCEsQgBlB+t2hbTZV8Vr7hZOFdBkOuFhDRqB2ZQ0ZShi3uA2rEIBtvE/u/OTlPTN3qWRsRS55WfkZV53+81dAlFJZ+sXFzAgHCo3NpZ8RA41L7PoNrnB3IpbR6RddA9Rxm8e5E3x2xd5jmBcE4YUFxiKVBOF63Nu0hQxASHnYZDlTohG+2FX0xZ4FgtI+oCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJgyfFJxa2JZUF2Eci4rAZtY47bKw0TSiHgJZzaz0veio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/y3v63n
+
+==================================================================
