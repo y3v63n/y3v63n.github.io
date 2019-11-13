@@ -24,3 +24,5 @@ We are calling on other validators (especially the bigger ones) to support our s
 We will publish detailed instructions for community members and KAVA token holders as soon as transactions will be enabled and Binance KAVA BEP-2 tokens will migrate to the Kava mainnet.
 
 *P.S. The mainnet launch on 5 November was cancelled and will happen again on 12 November.*
+
+*P.P.S. The mainnet launch has again been postponed due to a [vulnerability](https://twitter.com/kava_labs/status/1194112817399500800). It is expected to launch on 15 November.*
