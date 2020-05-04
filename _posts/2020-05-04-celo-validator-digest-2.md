@@ -99,7 +99,7 @@ Not so much a discussion per se, but **[brian / stakevalley.com](https://discord
   >
   > Also because there are no elections, the proposing order of genesis validators is fixed and doesn't change epoch by epoch, so it is always the same set of 1/3 of validators that are hitting the issue (instead of the cohort of "unlucky validators" changing every epoch).
 
-* **[peterldowns / cnstnt.xyz](https://discordapp.com/channels/600834479145353243/601046166620078100/705626006588751933)** shared a tip on how to connect you locally installed `celocli` to a fully synced remote node using ssh tunnel:
+* **[peterldowns / cnstnt.xyz](https://discordapp.com/channels/600834479145353243/601046166620078100/705626006588751933)** shared a tip on how to connect your locally installed `celocli` to a fully synced remote node using ssh tunnel:
 
   > I've found that using an ssh tunnel works exactly as well as I thought it would. With a baklava accounts node set up as normal, running on a machine that I have an ssh config entry for called `c-accounts`, I am able to use a locally-installed `celocli` to interact with the celo network with the following ssh command:
   >
