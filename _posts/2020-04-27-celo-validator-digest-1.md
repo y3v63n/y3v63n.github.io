@@ -106,3 +106,14 @@ INFO [04-22|11:16:09.115] Error sending all version certificates   func=Register
 * [Pretoria Research Lab](https://cauldron.pretoria.tech/) has launched a faucet for Baklava at [https://cauldron.pretoria.tech/baklava-faucet](https://cauldron.pretoria.tech/baklava-faucet)
 
 * If you missed the 24 April validator call, the audio recording is available [here](https://zoom.us/rec/play/6JUrcOj8pz43HNyV4gSDAfItW42_Ka2s0SMar6ILz0jkUHlXZFCvNeQVZ-WnKhpuEf4HgoSip3IS2sA5) and the notes [here](https://docs.google.com/document/d/1OrSnTjvYgHC41JxdwJ_fMrcQiJOanRaZLgZVqPscTBA/edit?usp=sharing).
+<br>
+
+
+-----------------------------------------------------
+<br>
+
+<center><strong><font size="+1">If you want to receive the digest directly to your inbox, you can subscribe to our Substack newsletter below.</font></strong></center>
+<br>
+{% raw %}
+<center><iframe src="https://moonlime.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+{% endraw %}

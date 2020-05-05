@@ -125,3 +125,15 @@ Not so much a discussion per se, but **[brian / stakevalley.com](https://discord
 
 * **zviad / wotrust.us** created a [voting tool](https://www.npmjs.com/package/celovotes) so that validators who are no longer running a validator or a group in baklava could use it to continue to automatically deploy votes for other high scoring groups. He also created the [governance tool](https://www.npmjs.com/package/celogovernance) that gives more human readable output for governance proposals.
 * Thanks to **[kp](https://discordapp.com/channels/600834479145353243/638489933740376068/704503463844773930)** you can now exchange Celo **Baklava** assets using your Ledger device at [https://celoist.com/](https://celoist.com/). Vote management support is coming soon.
+<br>
+<br>
+
+
+-----------------------------------------------------
+<br>
+
+<center><strong><font size="+1">If you want to receive the digest directly to your inbox, you can subscribe to our Substack newsletter below.</font></strong></center>
+<br>
+{% raw %}
+<center><iframe src="https://moonlime.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+{% endraw %}
