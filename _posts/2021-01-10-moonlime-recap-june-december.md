@@ -3,7 +3,7 @@ layout: post
 title: "Moon Lime Recap: June - December 2020"
 date: "2021-01-11 00:13:11 +0100"
 ---
-The year 2020 is now over, and it is time to sum up the its results. The second half of 2020 was rich in events for our small team. We added two more networks to our portfolio, **Oasis** and **Graph** and kept on validating on **Celo**, **Kava**, **Centrifuge** and **Kusama**. Read on for more details.
+The year 2020 is now over, and it is time to sum up its results. The second half of 2020 was rich in events for our small team. We added two more networks to our portfolio, **Oasis** and **Graph** and kept on validating on **Celo**, **Kava**, **Centrifuge** and **Kusama**. Read on for more details.
 
 <!--more-->
 
